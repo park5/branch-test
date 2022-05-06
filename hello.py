@@ -1,5 +1,5 @@
-for i in range(1,25):
-	if i%5 == 0:
+for i in range(1,22):
+	if i%7 == 0:
 		print("dream")
 	elif i%3 == 0:
 		print("year")
