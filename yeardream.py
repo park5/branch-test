@@ -5,3 +5,4 @@ for i in range(1,31)::
 		print("year")
 	else:
 		print(i)
+print("test")
